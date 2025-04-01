@@ -46,7 +46,7 @@ window.pow = function pow(x, y) {
   return z;
 };
 
-window.div = function div(x, y) {
+window.div1 = function div1(x, y) {
   if (y === 0) {
     return 0;
   }
